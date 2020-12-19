@@ -24,6 +24,7 @@ def pop() -> Any:
 
     :return: popped element
     """
+    my_stack.pop(-1)
     return None
 
 
